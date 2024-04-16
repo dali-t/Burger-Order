@@ -1,0 +1,41 @@
+END OF DAY REPORT
+--------------------------------------
+Total orders: 
+	Total uncompleted orders:3
+		Order ID: 2
+		Hamburgers: 10
+		Cheesebugers: 10
+		Veggieburgers: 3
+		Sodas: 4
+
+		Order ID: 4
+		Hamburgers: 5
+		Cheesebugers: 5
+		Veggieburgers: 5
+		Sodas: 5
+
+		Order ID: 5
+		Hamburgers: 7
+		Cheesebugers: 7
+		Veggieburgers: 7
+		Sodas: 7
+
+	Total orders completed for today: 2
+		Order ID: 1
+		Hamburgers: 3
+		Cheesebugers: 15
+		Veggieburgers: 4
+		Sodas: 10
+
+		Order ID: 3
+		Hamburgers: 1
+		Cheesebugers: 1
+		Veggieburgers: 1
+		Sodas: 2
+
+Total items placed for today: 48
+	Hamburgers: 12
+	Cheeseburgers: 12
+	Veggieburgers: 12
+	Sodas: 12
+
